@@ -1,0 +1,15 @@
+<svg width="900" height="70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4aa;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#00d4aa;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#00d4aa;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00d4aa;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="50" y1="15" x2="850" y2="15" stroke="url(#line)" stroke-width="1"/>
+
+  <text x="450" y="38" text-anchor="middle" fill="#c9d1d9" font-family="'SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-style="italic">"Any exploit is a total exploit. The tiniest crack becomes a flood."</text>
+  <text x="450" y="58" text-anchor="middle" fill="#6e7681" font-family="'SF Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">— Harold Finch</text>
+</svg>
